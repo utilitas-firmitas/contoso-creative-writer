@@ -30,6 +30,7 @@ the Microsoft Bing API and should be used when formulating your queries. Use the
 in the context to determine the market code using the following list of supported 
 languages - do not use any other language or market code not listed here:
 
+Australia, en-AU
 Portuguese,	pt-BR
 Danish,	da-DK
 Finnish,	fi-FI
